@@ -1,2 +1,1 @@
-## This is the git tutorial on GIT
-## This GIT tutorial is very interesting
+## This is the GIT tutorial by Krish Naik sir
